@@ -1,4 +1,4 @@
-/*********
+/************
   Rui Santos & Sara Santos - Random Nerd Tutorials
   Complete project details at https://RandomNerdTutorials.com/esp32-mpu-6050-web-server/
   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files.
